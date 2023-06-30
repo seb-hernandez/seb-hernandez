@@ -1,4 +1,4 @@
-### Work sumary in 10 lines 🚀
+### Hi there! 
 
 - 👨🏻‍💻 Currently working on React and Go.
 - 🤓 Currently learning Go and Rust.
@@ -7,4 +7,4 @@
 #### Previous projects
 
 - Secure digital examinations: https://www.digiexam.com/support/downloads-for-students/
-  Go ahead, download the app, and take a demo exam!
+-> Go ahead, download the app, and take a demo exam!
