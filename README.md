@@ -4,7 +4,7 @@
 - 🤓 Currently learning Go and Rust.
 - 🤿 Fun fact: Underwater rugby player 🇸🇪 #88
 
-#### Previous projects
+#### Previous and current projects
 
 - Secure digital examinations -> https://www.digiexam.com/support/downloads-for-students
   - Go ahead, download the app, and take the demo exam!
