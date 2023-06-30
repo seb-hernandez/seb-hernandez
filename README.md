@@ -7,6 +7,6 @@
 #### Previous projects
 
 - Secure digital examinations: https://www.digiexam.com/support/downloads-for-students
-Go ahead, download the app, and take the demo exam!
+  - Go ahead, download the app, and take the demo exam!
 - Ocean Visibility platform: https://www.project44.com/ocean-visibility/ocean-flex
-Search for: Booking Id -> ABCDES99922 -> MSC
+  - Search for: Booking Id -> ABCDES99922 -> MSC
