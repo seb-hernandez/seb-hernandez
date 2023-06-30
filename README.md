@@ -1,4 +1,4 @@
-### Hi there! 
+### Hi there! 👋🏻
 
 - 👨🏻‍💻 Currently working on React, Go, Nodejs, and Nestjs.
 - 🤓 Currently learning Go and Rust.
