@@ -1,6 +1,6 @@
 ### Hi there! 
 
-- 👨🏻‍💻 Currently working on React and Go.
+- 👨🏻‍💻 Currently working on React, Go, Nodejs, and Nestjs.
 - 🤓 Currently learning Go and Rust.
 - 🤿 Fun fact: Underwater rugby player 🇸🇪 #88
 
@@ -10,4 +10,4 @@
   - Go ahead, download the app, and take the demo exam!
 - Ocean Visibility platform -> https://www.project44.com/ocean-visibility/ocean-flex
   - Search for: Container Id -> TCLU9103482 -> MSC
-- Shipment tracking app for carriers -> https://apps.apple.com/se/app/driveview-by-project44/id1439370774
+- Shipment tracking app -> https://apps.apple.com/se/app/driveview-by-project44/id1439370774
