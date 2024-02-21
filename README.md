@@ -1,5 +1,4 @@
 ### Hi there! 👋🏻
 
-- 👨🏻‍💻 Working with React.
-- 🤓 Learning Rust and Go.
+- 👨🏻‍💻 Working with Rust, Go and React.
 - 🤿 Fun fact: Underwater-rugby player 🇸🇪 #88
